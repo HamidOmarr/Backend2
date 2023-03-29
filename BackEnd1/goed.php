@@ -12,6 +12,7 @@ include 'goed2.php';
 </head>
 <body>
 	<div class="container <?php echo get_greeting(); ?>" >
+	<h1 class="welkom"><?php echo get_greeting(); ?></h1>
 		<span class="time"><?php echo get_time(); ?></span>
 	</div>
 </body>
