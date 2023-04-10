@@ -1,0 +1,30 @@
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+input[type="naam"], input[type="email"] {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    width: 300px;
+    max-width: 100%;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+input[type="submit"] {
+    background-color: #185792;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+input[type="submit"]:hover {
+    background-color: #144b7e;
+}
