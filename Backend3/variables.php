@@ -1,3 +1,3 @@
 <?php
-$naam = "Jouw Voor- en Achternaam";
+$fruitsoort = array("appel", "banaan", "ananas");
 ?>

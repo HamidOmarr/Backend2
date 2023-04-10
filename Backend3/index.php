@@ -1,4 +1,6 @@
 <?php
-require('variables.php');
-echo $naam;
+require('test1.php');
+foreach ($fruitsoort as $x) {
+    echo "<li>" . $x . "</li>";
+  }
 ?>
