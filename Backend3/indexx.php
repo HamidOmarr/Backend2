@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-    <title>Index</title>
+    <title>Indexx</title>
 </head>
 <body>
     <?php
